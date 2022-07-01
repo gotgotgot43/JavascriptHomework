@@ -1,0 +1,9 @@
+{
+    "users": [
+        { "email": "user1@gmail.com", "password": "123456", "point": 25 },
+        { "email": "user2@gmail.com", "password": "654321", "point": 20 },
+        { "email": "user3@gmail.com", "password": "135790", "point": 100 },
+        { "email": "user4@gmail.com", "password": "097531", "point": 15 },
+        { "email": "user5@gmail.com", "password": "246810", "point": 50 }
+    ]
+}
